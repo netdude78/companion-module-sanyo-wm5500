@@ -1,0 +1,18 @@
+{
+	"name": "sanyo-wm5500",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Projector"
+	],
+	"manufacturer": "Sanyo",
+	"product": "Projector",
+	"shortname": "sanyo",
+	"description": "Sanyo WM5500 Module for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Dave Stoll <dstoll-dev@use.startmail.com>",
+	"license": "MIT"
+}
